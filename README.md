@@ -19,12 +19,9 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Most of the parameters have a positive correlation/neutral correlation with prices
+- Ground floor living area, overall quality, Neighbourhood area and Garage area have the biggest impact of prices
+- Lasso & Ridge regression reduces the MSE of the model
 
 
 ## Technologies Used
